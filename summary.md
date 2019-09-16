@@ -38,3 +38,13 @@ documents I can reference please share.
 
 
 
+
+##CharTypeTest
+
+#should_describe_escaped_chars
+1. To learn and describe how to use escaped characters in java. Document: https://docs.oracle.com/javase/tutorial/java/data/characters.html
+2. After coding, my first run failed because I'm using binary and got the wrong binary for backspace to get char
+3. During coding I realize that the modification should be using the escaped string directly set to the final variable 
+and not the binary value
+4. None. 
+
