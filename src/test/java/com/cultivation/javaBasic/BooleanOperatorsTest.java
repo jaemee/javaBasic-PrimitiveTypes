@@ -66,7 +66,7 @@ class BooleanOperatorsTest {
 
         // TODO: please write down the result directly to pass the test.
         // <--start
-        final int expected = 0;
+        final int expected = 0b11111111111111110000000000000000;
         // --end-->
 
         assertEquals(expected, ~value);

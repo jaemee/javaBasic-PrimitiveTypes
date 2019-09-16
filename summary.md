@@ -25,4 +25,16 @@
 3. Same as above should_do_bitwise_and_boolean_operation
 4. Same as above should_do_bitwise_and_boolean_operation
 
+#should_do_bitwise_not_operation
+1. To learn the NOT operation with bitwise. Document: https://www.vojtechruzicka.com/bit-manipulation-java-bitwise-bit-shift-operations/
+2. Same as above should_do_bitwise_and_boolean_operation. 
+3. I put the binary value to correct the test because the decimal value of my answer is too big for an int type
+4. After I add my answer and run the test and succeed I got curious what the value of the actual 
+really is, why too big integer so I re run the test. I found out that the value of the Actual is negative,
+I was wondering why my answer with positive big value equals to negative value using binary?
+I also read that with NOT operation the value will be flipped, so it will be negative, but I don't get
+how I will have negative when I was doing the computation and got a positive answer instead. If there are other 
+documents I can reference please share.
+
+
 
