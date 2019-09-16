@@ -19,3 +19,10 @@
 3. I corrected the test's expected result directly as an integer value since I can straightly get the value from the 2 hexadecimal converted to binary and using the logical operators
 4. None.
 
+#should_do_bitwise_or_boolean_operation
+1. Same as above should_do_bitwise_and_boolean_operation
+2. Same as above should_do_bitwise_and_boolean_operation
+3. Same as above should_do_bitwise_and_boolean_operation
+4. Same as above should_do_bitwise_and_boolean_operation
+
+
