@@ -13,4 +13,9 @@
 4. None.
 
 
-#
+#should_do_bitwise_and_boolean_operation
+1. Learning the combination of checking or using bitwise together with boolean operators. Document: https://www.vojtechruzicka.com/bit-manipulation-java-bitwise-bit-shift-operations/
+2. Looking at the original codes it will fail because as per looking with the hexadecimal values it's won't return to 0, no matter what.
+3. I corrected the test's expected result directly as an integer value since I can straightly get the value from the 2 hexadecimal converted to binary and using the logical operators
+4. None.
+
