@@ -74,3 +74,12 @@ and not the binary value
 2. Same as above should_get_range_of_primitive_int_type
 3. Same as above should_get_range_of_primitive_int_type
 4. Same as above should_get_range_of_primitive_int_type
+
+#should_overflow_silently
+1. To learn overflowing of int in java. Document: https://dzone.com/articles/overflow-and-underflow-data
+2. No idea what will happen to an int value if it surpasses it's MAX_VALUE
+3. Change the code with Integer.MIN_VALUE, since as per reading document any 32-bit java that surpasses 32 bit will get rounded, so adding 1 to Max will return the 
+lowest value of Integer
+4. None
+
+ 
