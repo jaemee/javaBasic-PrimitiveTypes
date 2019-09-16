@@ -69,3 +69,8 @@ and not the binary value
 3. Same as above should_get_range_of_primitive_int_type
 4. Same as above should_get_range_of_primitive_int_type
 
+#should_get_range_of_primitive_byte_type
+1. Same as above should_get_range_of_primitive_int_type
+2. Same as above should_get_range_of_primitive_int_type
+3. Same as above should_get_range_of_primitive_int_type
+4. Same as above should_get_range_of_primitive_int_type
