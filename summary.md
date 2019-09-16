@@ -54,8 +54,12 @@ and not the binary value
 #should_get_range_of_primitive_int_type
 1. To learn the different primitive types and to use primitive type constants. Documents: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 2. Not fail at first because I put changes before running test (Same as above answer, I always modify first before running tests)
-3. Because as per rule apply, we need to take use of constant primitive type and Actual needs MAX/ MIN_VALUE\
+3. Because as per rule apply, we need to take use of constant primitive type and Actual needs MAX/ MIN_VALUE
 4. None.
 
- 
+#should_get_range_of_primitive_short_type
+1. Same as above should_get_range_of_primitive_int_type
+2. Same as above should_get_range_of_primitive_int_type
+3. Same as above should_get_range_of_primitive_int_type
+4. Same as above should_get_range_of_primitive_int_type
 
