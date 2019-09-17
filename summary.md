@@ -146,3 +146,9 @@ so basically just removing the decimal places
 2. Same as above. Same method logic
 3. Same as above. Same method logic
 4. None
+
+#should_round_number
+1. To learn how to use Math functions for the correct casting of numbers mathematically
+2. No errors. Default expected result will not return success test just by looking at the code.
+3. Changes result using Math built in methods to round off the given number to it's correct value when round off since type casting will not result to a rounded value
+4. None
