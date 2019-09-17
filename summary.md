@@ -140,3 +140,9 @@ so I put the Arithmetic Exception inside the catch clause
 3. Directly set the number because setting is for expected result and int casting cast float to it's equivalent whole number without rounding off\
 so basically just removing the decimal places
 4. None
+
+#should_not_round_number_when_convert_to_integer
+1. Same as above. Same method logic
+2. Same as above. Same method logic
+3. Same as above. Same method logic
+4. None
