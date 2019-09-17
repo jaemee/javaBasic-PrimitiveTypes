@@ -99,4 +99,9 @@ lowest value of Integer
 2. Default 0 won't return success
 3. Changed the result to 16bit value of the given hexadecimal integer as per the Actual is a short type
 4. None.
- 
+
+#should_increment
+1. To learn increment behaviour
+2. Same as above
+3. Increment after the value will only increment the original value of the variable and not the new var where the vaule incremented is set
+4. None.
