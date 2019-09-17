@@ -105,3 +105,9 @@ lowest value of Integer
 2. Same as above
 3. Increment after the value will only increment the original value of the variable and not the new var where the vaule incremented is set
 4. None.
+
+#should_increment_2
+1. Same as above should_increment
+2. Same as above
+3. Increment before the value while assigning to a new variable increments both the value of the original and the new variable
+4. None.
