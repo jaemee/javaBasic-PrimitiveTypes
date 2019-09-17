@@ -111,3 +111,10 @@ lowest value of Integer
 2. Same as above
 3. Increment before the value while assigning to a new variable increments both the value of the original and the new variable
 4. None.
+
+#should_throw_exception_when_overflow
+1. To learn how to catch an overflow / any exception with try and catch
+2. Same as above
+3. Added checking for overflow, inside if I put the default Throw Exception since the original exception to be return will be the one on the catch clause 
+so I put the Arithmetic Exception inside the catch clause
+4. None.
