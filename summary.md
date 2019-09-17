@@ -124,3 +124,12 @@ so I put the Arithmetic Exception inside the catch clause
 2. No errors occurred, since already fixed in above test
 3. No change. Just run the test (method already created and can handle the test from above test : should_throw_exception_when_overflow)
 4. None.
+
+
+##FloatingTypeTest
+
+#should_judge_special_double_cases
+1. To use the Double class default functions for math computation errors. (Cannot divide by 0/ Not a Number errors)
+2. No errors occurred.
+3. Added try and catch so no need to remove the default throw exception in Method and to handle the Infinite/NaN test
+4. None.
