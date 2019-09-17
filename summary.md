@@ -94,3 +94,9 @@ lowest value of Integer
 3. I changed the result to a whole number to test the number type handling
 4. None.
 
+#should_truncate_number_when_casting
+1. To learn the real behaviour when casting primitive values in java
+2. Default 0 won't return success
+3. Changed the result to 16bit value of the given hexadecimal integer as per the Actual is a short type
+4. None.
+ 
