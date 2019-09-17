@@ -85,5 +85,12 @@ lowest value of Integer
 #should_underflow_silently
 1. To learn under flowing of int in java. Document: https://dzone.com/articles/overflow-and-underflow-data
 2. Default 0 won't return success
-3. Same as above bu reverse. When MIN_VALUE is subtracted by 1, then value will rounded to tha MAX_VALUE of a 32-bit
+3. Same as above but reverse. When MIN_VALUE is subtracted by 1, then value will rounded to tha MAX_VALUE of a 32-bit
 4. None.
+
+#should_take_care_of_number_type_when_doing_calculation
+1. To learn how to handle number type to double when using calculations.
+2. Default 0 won't return success
+3. I changed the result to a whole number to test the number type handling
+4. None.
+
