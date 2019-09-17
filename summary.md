@@ -114,7 +114,13 @@ lowest value of Integer
 
 #should_throw_exception_when_overflow
 1. To learn how to catch an overflow / any exception with try and catch
-2. Same as above
+2. Confused which exception to be thrown, the one inside the checking or the one in the catch clause
 3. Added checking for overflow, inside if I put the default Throw Exception since the original exception to be return will be the one on the catch clause 
 so I put the Arithmetic Exception inside the catch clause
+4. None.
+
+#just_prevent_lazy_implementation
+1. To learn if the codes in the method add is dynamic and can be used without an exception and if it will return the correct value
+2. No errors occurred, since already fixed in above test
+3. No change. Just run the test (method already created and can handle the test from above test : should_throw_exception_when_overflow)
 4. None.
