@@ -133,3 +133,10 @@ so I put the Arithmetic Exception inside the catch clause
 2. No errors occurred.
 3. Added try and catch so no need to remove the default throw exception in Method and to handle the Infinite/NaN test
 4. None.
+
+#should_not_get_rounded_result_if_convert_floating_number_to_integer
+1. To know casting behaviour for primitive types
+2. No errors. Default expected result will not return success test just by looking at the code.
+3. Directly set the number because setting is for expected result and int casting cast float to it's equivalent whole number without rounding off\
+so basically just removing the decimal places
+4. None
